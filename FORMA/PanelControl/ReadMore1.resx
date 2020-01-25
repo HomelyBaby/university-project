@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>В еру мобільних гаджетів неможливо обійтися без цього коду. JavaScript — найпопулярніша мова програмування, оскільки дозволяє не тільки створювати сайти і писати розширення для веб-платформ, але і активно застосовується для розробки додатків. Спеціаліст по JavaScript затребуваний як у веб-студій, так і в рамках фрілансу. Досить простий синтаксис робить код зручним для вивчення. Освоїти його не займе багато часу, тому JS — обов'язковий навик будь-якого сучасного програміста.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Жоден рейтинг топових мов програмування не обходиться без Swift. Код використовується для розробки нативних додатків під iOS. Він дуже затребуваний. Сучасні тенденції такі, що багато жителів СНГ, як американці так і європейці, переходять на техніку від Apple. У зв'язку з цим перед розробниками стає непросте завдання - робити продукти для нового типу аудиторії. Нативні додатки працюють швидше, ніж кросплатформні варіанти. Тому мова стає популярною, що і дозволило їй посісти друге місце.
+</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Хоча ця мова програмування з'явивлася в далекому 2009, справжню популярність вона почала набувати через 10 років, коли розробники зіткнулися з тим, що канонічні коди з'їдають занадто багато ресурсів. Особливість Go в тому, що вона заточена під багатоядерні процесори і дозволяє писати код в режимі мультизадачності. При цьому відбувається суттєва економія пам'яті, що позначається на швидкодії і швидкості відгуку. До того ж, додатки на Go менше вантажать слабке залізо, тому можуть працювати на застарілих моделях ПК.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Інтернет - найбільший і найбільшефективний рекламний майданчик. Щоб ним скористатися, потрібен сайт, а для цього потрібні програміст зі знанням PHP. Мова користується величезною популярністю, оскільки сумісна з найбільш затребуваним CMS WordPress. Але з його допомогою можна створювати якісні сайти під будь-який движок. Для програмістів, орієнтованих на розробку веб-майданчиків, знання PHP обов'язково. Якщо цікавить розробка додатків, вивчення мови можна відкласти.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>П'яте місце суто за статистикою, за фактом Python незабаром якщо не витіснить, то складе конкуренцію JS. Головна перевага, крім простоти кодинга, наявність нейронних зв'язків і відповідних бібліотек. Завдяки цьому можна створювати самонавчаючі програми. Це важливо для аналітиків, банкірів, подібні рішення використовують пошукові системи Google і Яндекс. Ще одна перевага — розвинене співтовариство розробників. У мережі є величезна кількість готових рішень і спеціалізованих форумів, де новачкам допоможуть розібратися у вирішенні складних завдань.</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Нативна мова Android. Цим все сказано, оскільки складно уявити, коли додатки для мобільних гаджетів перестануть бути актуальними. Простота коду, кросплатформність, принципи об'єктно-орієнтованого програмування роблять цю мову дуже затребуваною. За статистикою 90% десктопних бек-енд додатків розробляються з її допомогою. Скільки б не було конкурентів, Java-фахівці завжди будуть цінуватися.</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Сі Шарп — це без перебільшення найпростіша і зрозуміла мова програмування високого рівня. Вона створювалася з метою з'єднати в собі все найкраще з інших кодів і у розробників це вийшло. За допомогою C# можна реалізувати будь-яке завдання, від створення невеликого обчислювального алгоритму, до написання повноцінної іграшки на Unity Game. Оскільки мова відносно стара, багато програмістів обходять її стороною, але це помилка. Сі Шарп поєднує в собі Python, Java і найближчих родичів С і С++. Підходить для розробки як десктопних, так і мобільних додатків. Тому C# обов'язкова до вивчення.</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>Нова мова програмування, яка досить швидко розвивається. Сумісність з Google і Java, лаконічність синтаксису і можливість реалізувати будь-які завдання робить її популярною серед розробників мобільних додатків. При створенні Kotlin використовувалися побажання і напрацювання розробників. Тому незабаром мова може стати основною для андроїд додатків.</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>Мова розроблена Mozilla Foundation. Як і інші продукти компанії, вона заснована на принципі відкритого коду. Головна особливість в тому, що за допомогою операторів контролюються абсолютно всі дії. Це дозволяє забезпечити найвищий рівень безпеки. Rust цікава в першу чергу тим, хто займається розробкою власних IT продуктів. Вакансій хоча і не багато, зате можна знайти дійсно цікаві проекти.</value>
+  </data>
+  <data name="label20.Text" xml:space="preserve">
+    <value>Бурхливий розвиток мобільних додатків на час загальмувало розробку десктопних продуктів. Але поступово інтерес до них повертається, а разом з цим зростає популярність Delphi. Незважаючи на те, що мова досить стара, імперативна і не найпростіша в освоєнні, вона дозволяє створювати безпомилковий код. Кожна команда має чітке, конкретне значення, а сам код жорстко структурований. Завдяки цьому вдається повністю виключити помилки і глюки. З негативного — додатки споживають багато ресурсів. Зате до їх роботі не буває претензій. З точки зору конкуренції — це найбільш цікавий варіант. Оскільки не всі програмісти володіють мовою на високому рівні.</value>
+  </data>
+</root>
